@@ -1,0 +1,11 @@
+.text-black {
+	color: var(--black);
+}
+
+.text-white {
+	color: var(--white);
+}
+
+.text-bold {
+	font-weight: bold;
+}
