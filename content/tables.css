@@ -1,0 +1,33 @@
+table {
+	width: 100%;
+	table-layout: fixed;
+}
+
+table td {
+	padding: 15px 3px 10px 3px;
+}
+
+table thead tr {
+	border-bottom: 1px solid var(--gray-700);
+	font-weight: bold;
+}
+
+table tbody tr {
+	border-bottom: 1px solid var(--gray-400);
+}
+
+table tfoot tr {
+	border-top: 2px solid var(--gray-700);
+}
+
+table tr:hover td {
+	background-color: var(--gray-200);
+}
+
+table thead tr:hover td {
+	background-color: inherit;
+}
+
+table tfoot tr:hover td {
+	background-color: inherit;
+}
