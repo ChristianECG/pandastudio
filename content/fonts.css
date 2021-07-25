@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;600&family=Rubik:ital,wght@0,400;0,500;1,300&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Rubik', 'Encode Sans', sans-serif;
+	line-height: 140%;
+}
+
+html,
+p {
+	font-family: 'Encode Sans', sans-serif;
+	line-height: 150%;
+}
+
+h1 {
+	font-size: 38px;
+	font-weight: 400;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: 400;
+}
+
+h3 {
+	font-size: 28px;
+	font-weight: 400;
+}
+
+h4 {
+	font-size: 24px;
+	font-weight: 400;
+}
+
+h5 {
+	font-size: 20px;
+	font-weight: 300;
+}
+
+h6 {
+	font-size: 18px;
+	font-weight: 300;
+}
+
+html {
+	font-size: 16px;
+	font-weight: 400;
+}
