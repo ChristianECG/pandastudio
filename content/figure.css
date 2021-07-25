@@ -1,0 +1,6 @@
+figure figcaption {
+	color: var(--gray-600);
+	padding-top: 10px;
+	font-size: 0.9rem;
+	font-family: 'Rubik', 'Encode Sans', sans-serif;
+}
