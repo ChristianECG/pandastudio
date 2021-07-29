@@ -1,0 +1,22 @@
+html,
+body {
+	min-width: 100%;
+	min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+.p,
+.legible {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+p {
+	margin-bottom: 10px;
+}
