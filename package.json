@@ -1,6 +1,6 @@
 {
 	"name": "pandastudio",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Christian Elías <contacto@christianecg.com>",
 	"license": "MIT",
 	"description": "Una libería de desarrollo frontend poderosa y fácil de implementar",
@@ -13,7 +13,9 @@
 		"framework"
 	],
 	"scripts": {
-		"dist": "minify main.css > dist/pandastudio.min.css"
+		"dist": "minify main.css > dist/pandastudio.min.css",
+		"build": "npm dist",
+		"publish": "npm publish --access public"
 	},
 	"repository": {
 		"type": "git",
