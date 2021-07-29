@@ -1,0 +1,383 @@
+.m-0 {
+	margin: 0;
+}
+.m-1 {
+	margin: 0.25rem;
+}
+.m-2 {
+	margin: 0.5rem;
+}
+.m-3 {
+	margin: 1rem;
+}
+.m-4 {
+	margin: 2rem;
+}
+.m-5 {
+	margin: 4rem;
+}
+.m-6 {
+	margin: 6rem;
+}
+
+.mt-0 {
+	margin-top: 0;
+}
+.mt-1 {
+	margin-top: 0.25rem;
+}
+.mt-2 {
+	margin-top: 0.5rem;
+}
+.mt-3 {
+	margin-top: 1rem;
+}
+.mt-4 {
+	margin-top: 2rem;
+}
+.mt-5 {
+	margin-top: 4rem;
+}
+.mt-6 {
+	margin-top: 6rem;
+}
+
+.mr-0 {
+	margin-right: 0;
+}
+.mr-1 {
+	margin-right: 0.25rem;
+}
+.mr-2 {
+	margin-right: 0.5rem;
+}
+.mr-3 {
+	margin-right: 1rem;
+}
+.mr-4 {
+	margin-right: 2rem;
+}
+.mr-5 {
+	margin-right: 4rem;
+}
+.mr-6 {
+	margin-right: 6rem;
+}
+
+.mb-0 {
+	margin-bottom: 0;
+}
+.mb-1 {
+	margin-bottom: 0.25rem;
+}
+.mb-2 {
+	margin-bottom: 0.5rem;
+}
+.mb-3 {
+	margin-bottom: 1rem;
+}
+.mb-4 {
+	margin-bottom: 2rem;
+}
+.mb-5 {
+	margin-bottom: 4rem;
+}
+.mb-6 {
+	margin-bottom: 6rem;
+}
+
+.ml-0 {
+	margin-left: 0;
+}
+.ml-1 {
+	margin-left: 0.25rem;
+}
+.ml-2 {
+	margin-left: 0.5rem;
+}
+.ml-3 {
+	margin-left: 1rem;
+}
+.ml-4 {
+	margin-left: 2rem;
+}
+.ml-5 {
+	margin-left: 4rem;
+}
+.ml-6 {
+	margin-left: 6rem;
+}
+
+.mx-0 {
+	margin-right: 0;
+	margin-left: 0;
+}
+.mx-1 {
+	margin-right: 0.25rem;
+	margin-left: 0.25rem;
+}
+.mx-2 {
+	margin-right: 0.5rem;
+	margin-left: 0.5rem;
+}
+.mx-3 {
+	margin-right: 1rem;
+	margin-left: 1rem;
+}
+.mx-4 {
+	margin-right: 2rem;
+	margin-left: 2rem;
+}
+.mx-5 {
+	margin-right: 4rem;
+	margin-left: 4rem;
+}
+.mx-6 {
+	margin-right: 6rem;
+	margin-left: 6rem;
+}
+
+.my-0 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.my-1 {
+	margin-top: 0.25rem;
+	margin-bottom: 0.25rem;
+}
+.my-2 {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+.my-3 {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+.my-4 {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+.my-5 {
+	margin-top: 4rem;
+	margin-bottom: 4rem;
+}
+.my-6 {
+	margin-top: 6rem;
+	margin-bottom: 6rem;
+}
+
+.m-auto {
+	margin: auto;
+}
+.mt-auto {
+	margin-top: auto;
+}
+.mr-auto {
+	margin-right: auto;
+}
+.mb-auto {
+	margin-bottom: auto;
+}
+.ml-auto {
+	margin-left: auto;
+}
+.mx-auto {
+	margin-right: auto;
+	margin-left: auto;
+}
+.my-auto {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.p-0 {
+	padding: 0;
+}
+.p-1 {
+	padding: 0.25rem;
+}
+.p-2 {
+	padding: 0.5rem;
+}
+.p-3 {
+	padding: 1rem;
+}
+.p-4 {
+	padding: 2rem;
+}
+.p-5 {
+	padding: 4rem;
+}
+.p-6 {
+	padding: 6rem;
+}
+
+.pt-0 {
+	padding-top: 0;
+}
+.pt-1 {
+	padding-top: 0.25rem;
+}
+.pt-2 {
+	padding-top: 0.5rem;
+}
+.pt-3 {
+	padding-top: 1rem;
+}
+.pt-4 {
+	padding-top: 2rem;
+}
+.pt-5 {
+	padding-top: 4rem;
+}
+.pt-6 {
+	padding-top: 6rem;
+}
+
+.pr-0 {
+	padding-right: 0;
+}
+.pr-1 {
+	padding-right: 0.25rem;
+}
+.pr-2 {
+	padding-right: 0.5rem;
+}
+.pr-3 {
+	padding-right: 1rem;
+}
+.pr-4 {
+	padding-right: 2rem;
+}
+.pr-5 {
+	padding-right: 4rem;
+}
+.pr-6 {
+	padding-right: 6rem;
+}
+
+.pb-0 {
+	padding-bottom: 0;
+}
+.pb-1 {
+	padding-bottom: 0.25rem;
+}
+.pb-2 {
+	padding-bottom: 0.5rem;
+}
+.pb-3 {
+	padding-bottom: 1rem;
+}
+.pb-4 {
+	padding-bottom: 2rem;
+}
+.pb-5 {
+	padding-bottom: 4rem;
+}
+.pb-6 {
+	padding-bottom: 6rem;
+}
+
+.pl-0 {
+	padding-left: 0;
+}
+.pl-1 {
+	padding-left: 0.25rem;
+}
+.pl-2 {
+	padding-left: 0.5rem;
+}
+.pl-3 {
+	padding-left: 1rem;
+}
+.pl-4 {
+	padding-left: 2rem;
+}
+.pl-5 {
+	padding-left: 4rem;
+}
+.pl-6 {
+	padding-left: 6rem;
+}
+
+.px-0 {
+	padding-right: 0;
+	padding-left: 0;
+}
+.px-1 {
+	padding-right: 0.25rem;
+	padding-left: 0.25rem;
+}
+.px-2 {
+	padding-right: 0.5rem;
+	padding-left: 0.5rem;
+}
+.px-3 {
+	padding-right: 1rem;
+	padding-left: 1rem;
+}
+.px-4 {
+	padding-right: 2rem;
+	padding-left: 2rem;
+}
+.px-5 {
+	padding-right: 4rem;
+	padding-left: 4rem;
+}
+.px-6 {
+	padding-right: 6rem;
+	padding-left: 6rem;
+}
+
+.py-0 {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.py-1 {
+	padding-top: 0.25rem;
+	padding-bottom: 0.25rem;
+}
+.py-2 {
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+}
+.py-3 {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.py-4 {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+.py-5 {
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
+.py-6 {
+	padding-top: 6rem;
+	padding-bottom: 6rem;
+}
+
+.p-auto {
+	padding: auto;
+}
+.pt-auto {
+	padding-top: auto;
+}
+.pr-auto {
+	padding-right: auto;
+}
+.pb-auto {
+	padding-bottom: auto;
+}
+.pl-auto {
+	padding-left: auto;
+}
+.px-auto {
+	padding-right: auto;
+	padding-left: auto;
+}
+.py-auto {
+	padding-top: auto;
+	padding-bottom: auto;
+}
