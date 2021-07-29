@@ -1,0 +1,63 @@
+button {
+	min-height: 40px;
+	padding: 0 24px;
+	font-size: 1.1rem;
+	font-family: 'Encode Sans', sans-serif;
+	transition: all 0.3s ease-out;
+	border-radius: 8px;
+	border: 1px solid var(--primary);
+	background-color: var(--primary);
+	color: var(--white);
+	cursor: pointer;
+}
+
+.btn-primary {
+	border-color: var(--primary);
+	background-color: var(--primary);
+	color: var(--white);
+}
+.btn-border {
+	border-color: var(--primary);
+	background-color: inherit;
+	color: var(--primary);
+}
+.btn-soft {
+	border-color: #e7f0fe;
+	background-color: #e7f0fe;
+	color: #0040b2;
+}
+.btn-dark {
+	border-color: #001b33;
+	background-color: inherit;
+	color: #001b33;
+}
+
+button:hover,
+.btn-primary:hover {
+	border-color: #285dda;
+	background-color: #285dda;
+}
+.btn-border:hover {
+	border-color: #285dda;
+	background-color: #00000015;
+}
+.btn-soft:hover {
+	border-color: #d8e0ec;
+	background-color: #d8e0ec;
+}
+.btn-dark:hover {
+	border-color: #000000;
+	background-color: #00000015;
+}
+
+button:disabled,
+button:hover:disabled {
+	border-color: #999999;
+	background-color: #eeeeee;
+	color: #999999;
+	cursor: not-allowed;
+}
+
+button:active {
+	transform: scale(0.9);
+}
