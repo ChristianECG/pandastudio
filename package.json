@@ -1,0 +1,26 @@
+{
+	"name": "pandastudio",
+	"version": "1.0.0",
+	"author": "Christian Elías <contacto@christianecg.com>",
+	"license": "MIT",
+	"description": "Una libería de desarrollo frontend poderosa y fácil de implementar",
+	"keywords": [
+		"pandastudio",
+		"frontend",
+		"design",
+		"web",
+		"css",
+		"framework"
+	],
+	"scripts": {
+		"dist": "minify main.css > dist/pandastudio.min.css"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ChristianECG/pandastudio.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ChristianECG/pandastudio/issues"
+	},
+	"homepage": "https://github.com/ChristianECG/pandastudio#readme"
+}
