@@ -1,9 +1,9 @@
-<center>
+<div align='center'>
 <img src='docs/icon.png' width='100px'/>
 <h1>PandaStudio</h1>
 <p>Una libería de desarrollo frontend poderosa y fácil de implementar</p>
 <a href='https://github.com/ChristianECG/pandastudio/issues'><b>Reporta un error »</b></a>
-</center>
+</div>
 
 ## Inicio rápido
 
