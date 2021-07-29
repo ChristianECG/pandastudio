@@ -107,8 +107,11 @@ html {
 	--success: #24a861;
 	--info: #317dca;
 
-	--error-light: #f29d99;
-	--warning-light: #ffce8e;
-	--success-light: #9edbb5;
-	--info-light: ##98cef4;
+	--error-light: #ffecee;
+	--warning-light: #fff3e3;
+	--success-light: #e7f6ed;
+	--info-light: #e5f3fc;
+
+	/* PRIMARY */
+	--primary: #2b67f4;
 }
